@@ -98,4 +98,5 @@ for (let i = 0; i < stringCharacter.length; i++) {
 }
 
 console.log(stringCharacter);
+console.log(stringCharacter);
 
